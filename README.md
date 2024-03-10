@@ -1,17 +1,18 @@
 # 👋 Hello, I'm João Paulo Santos
 
 ## About Me
-I hold a degree in Analysis and Systems Development with a passionate love for technology. My professional journey revolves around the exciting world of mobile development, where I use Kotlin and Java programming languages for the Android platform as my primary focus. I'm always eager to learn new technologies and gain knowledge in various stacks.
+Sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Marketing e Growth. Atuo como Desenvolvedor Web criando soluções com tecnologias como HTML, CSS, Javascript, ReactJS e NodeJs e também atuo como Analista de Mídia de Performance (Gestor de Tráfego Pago) com experiência no Markting Digital.
 
 ## My Stacks
-- Android
-- Language: Kotlin/Java
-- Architectures: (MVC, MVVM, MVP, Clean Architecture)
-- SQLite
+- HTML e CSS
+- Javascript
+- Typescript
+- React
+- Nodejs
 - Git
 
 ## Key Interests
-- 📱 Mobile Development
+- 📱 Web Development
 - 💻 Technology and Innovation
 - 🚀 Creative and Challenging Projects
 
