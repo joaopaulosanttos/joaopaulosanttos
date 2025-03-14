@@ -43,5 +43,5 @@
 ---
 
 ## 📲 **Conecte-se comigo**
-👉 [LinkedIn](https://www.linkedin.com/in/joaopaulodacostasantos/))
+👉 [LinkedIn](https://www.linkedin.com/in/joaopaulodacostasantos/)
 
