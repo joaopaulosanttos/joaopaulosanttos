@@ -2,8 +2,6 @@
 
 🚀 Sou um profissional apaixonado por **Desenvolvimento Web, Growth Marketing e Automação com Inteligência Artificial**. Com formação em **Análise e Desenvolvimento de Sistemas** e Pós-Graduação em **Marketing e Growth**, busco unir tecnologia e estratégia de marketing digital para gerar resultados expressivos.
 
---
-
 ## 🔥 Sobre Mim
 🎯 **Minha missão** é criar soluções inovadoras que potencializam negócios através de tecnologia, marketing digital e automação inteligente.
 
@@ -28,7 +26,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![N8N]([https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white](https://www.google.com/search?sca_esv=bc67e38f1883f068&sxsrf=AHTn8zq5wotRhQ2S2swcJbIgUmo6HzLGGQ:1741916644565&q=N8N&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGls15HTOCuMiBB5X-nf1qmqhiHgNnnYLqFlzwKFTN-H7DcKWvQnFFLmH7oxSMLpZT1c18Bt69GPmon4MpaOtCJ-vHjDsa8dhO-ruFdxgqnQc_od_khD7C51UUn7yWJfcJ7qJp0-o9WMzpjXDr5QgVRuJiCAmRApbmp87CBGYNANJemoiMPouE1YLpGZByBt7DqO4RZToQ&sa=X&ved=2ahUKEwj7ps-WuYiMAxXDO7kGHfB6K0IQtKgLegQIHhAB&biw=1360&bih=633&dpr=1#vhid=5X6BzNof15JoPM&vssid=mosaic))
+![N8N](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🖥️ **Desenvolvimento Web**
 
